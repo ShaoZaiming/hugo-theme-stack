@@ -1,24 +1,21 @@
-author = "shao"
++++
+author = "yidongxue"
 title = "每日任务"
 date = "2024-01-17"
-description = "每天必看内容"
+description = "每日必看内容"
 categories = [
-    "基础内容"
+    "基础"
 ]
 tags = [
     "每日任务"
 ]
-
----
-
-
++++
 
 # 每日任务
 
 ## 1、默写冒泡算法
 
 ~~~c
-
 /*冒泡插入排序思路*/
 //如果采用从左向右的顺序，假设要实现递增排序，则是把元素大的向后移动
 void BubbleSort(int *buf,int bufsize)
@@ -247,12 +244,4 @@ lest significance byte		低字节先出（小端）
 big  significance byte		高字节先出（大端）
 
 ---
-
-
-
-
-
-​		
-
- 
 
