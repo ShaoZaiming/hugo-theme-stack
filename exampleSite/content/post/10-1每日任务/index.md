@@ -47,13 +47,13 @@ void BubbleSort(int *buf,int bufsize)
 
 ### 2.1 三次握手
 
-![](C:\Users\32424\Desktop\task\三次握手.png)
+![](.\三次握手.png)
 
 ---
 
 ### 2.2、四次挥手
 
-![](C:\Users\32424\Desktop\task\四次挥手.png)
+![](.\四次挥手.png)
 
 ---
 
