@@ -2,12 +2,12 @@ baseurl: https://example.com
 languageCode: en-us
 theme: hugo-theme-stack
 paginate: 5
-title: Coucou's blog
+title: yidongxue
 
 languages:
     en:
         languageName: English
-        title: Coucou's blog
+        title: yidongxue
         weight: 1
   
 
@@ -45,7 +45,6 @@ params:
         lastUpdated: Jan 02, 2006 15:04 MST
 
     sidebar:
-        emoji: 🍥
         subtitle: 记录本人的学习经历
         avatar:
             enabled: true
@@ -188,15 +187,9 @@ menu:
     social:
         - identifier: github
           name: GitHub
-          url: https://github.com/Acoucou/hugo-theme-stack
+          url: https://github.com/ShaoZaiming/hugo-theme-stack.git
           params:
               icon: brand-github
-
-        - identifier: twitter
-          name: Twitter
-          url: https://twitter.com
-          params:
-              icon: brand-twitter
 
 related:
     includeNewer: true
